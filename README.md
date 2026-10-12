@@ -21,6 +21,7 @@
 Freelance projects, technical consulting and long-term development partnerships.
 
 ## Reach me
+- Portfolio: https://www.talhahanif.com/
 - LinkedIn: https://www.linkedin.com/in/talha-hanif-694218126/
 - Email: talhahanif001@gmail.com
 
